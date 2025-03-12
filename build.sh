@@ -1,0 +1,1 @@
+npx asc calculate.ts --target release -O --use abort= --outFile calculate.wasm
